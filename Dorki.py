@@ -57,4 +57,7 @@ try:
 
 except Exception as exc:
     print("Pst!!! Error due to reason :", exc)
+    
+finally:
+    pass
 
